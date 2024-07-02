@@ -1,0 +1,42 @@
+body { background-color: blue;
+       margin: 0px;
+      }
+img { width: 50vw;
+      }
+.header { display: flex;
+          flex-direction: row;
+          justify-content: space-evenly;
+          align-items: center;
+          background-color: white;
+          text-align: center;
+          }
+.main   { display: flex;
+          flex-direction: row;
+          justify-content: space-evenly;
+          }
+.block-1 { display: flex;
+           flex-direction: column;
+           justify-content: space-evenly;
+           width: 50vw;
+           font-size: 1.5em;
+           color: whitesmoke;
+          }
+button  { background-color: red; color: white; font-size: 0.9em;
+          }
+.block-1bis { display: flex;
+              flex-direction: row;
+              justify-content: space-evenly;
+              width: 50vw;
+              font-size: 0.8em;
+              background-color: white;
+              }
+.block-2 { width: 60%;
+           }
+.footer { display: flex;
+          flex-direction: column;
+          justify-content: space-evenly;
+          align-items: center;
+          width: 10px;
+          }
+.logo3 { width: 100px; height: 100px;
+         }
